@@ -1,7 +1,7 @@
 >Code is hidden for academic purposes
 
 # Course Selection System
-
+Developed in Java.
 Based on pdc_pc_project1 topic with added GUI and JDBC implementation.
 
 # Login Screen
