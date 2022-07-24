@@ -1,4 +1,4 @@
->Code is hidden for academic purposes
+>Code is hidden for academic integrity purposes
 
 # Course Selection System
 Developed in Java.
